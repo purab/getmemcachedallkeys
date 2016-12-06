@@ -1,4 +1,4 @@
-# getmemcachedallkeys 
+# get memcached all keys 
 
 There is no official way to list avaiables keys in a memcache process.
 
